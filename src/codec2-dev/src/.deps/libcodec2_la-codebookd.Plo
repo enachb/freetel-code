@@ -1,0 +1,3 @@
+libcodec2_la-codebookd.lo: codebookd.c defines.h
+
+defines.h:

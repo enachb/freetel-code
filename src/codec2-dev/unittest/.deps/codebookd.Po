@@ -1,0 +1,3 @@
+codebookd.o: ../src/codebookd.c ../src/defines.h
+
+../src/defines.h:

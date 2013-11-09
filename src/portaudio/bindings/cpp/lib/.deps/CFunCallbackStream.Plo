@@ -1,0 +1,65 @@
+CFunCallbackStream.lo: ../source/portaudiocpp/CFunCallbackStream.cxx \
+ ../include/portaudiocpp/CFunCallbackStream.hxx \
+ ../../../include/portaudio.h ../include/portaudiocpp/CallbackStream.hxx \
+ ../include/portaudiocpp/Stream.hxx \
+ ../include/portaudiocpp/StreamParameters.hxx \
+ ../include/portaudiocpp/DirectionSpecificStreamParameters.hxx \
+ /usr/include/c++/cstddef \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/c++config.h \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/os_defines.h \
+ /usr/include/features.h /usr/include/stdc-predef.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-soft.h \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/cpu_defines.h \
+ /usr/lib/gcc/arm-angstrom-linux-gnueabi/4.7.3/include/stddef.h \
+ ../include/portaudiocpp/System.hxx \
+ ../include/portaudiocpp/SampleDataFormat.hxx \
+ ../include/portaudiocpp/Exception.hxx /usr/include/c++/exception \
+ /usr/include/c++/bits/atomic_lockfree_defines.h
+
+../include/portaudiocpp/CFunCallbackStream.hxx:
+
+../../../include/portaudio.h:
+
+../include/portaudiocpp/CallbackStream.hxx:
+
+../include/portaudiocpp/Stream.hxx:
+
+../include/portaudiocpp/StreamParameters.hxx:
+
+../include/portaudiocpp/DirectionSpecificStreamParameters.hxx:
+
+/usr/include/c++/cstddef:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/c++config.h:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/bits/predefs.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-soft.h:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/cpu_defines.h:
+
+/usr/lib/gcc/arm-angstrom-linux-gnueabi/4.7.3/include/stddef.h:
+
+../include/portaudiocpp/System.hxx:
+
+../include/portaudiocpp/SampleDataFormat.hxx:
+
+../include/portaudiocpp/Exception.hxx:
+
+/usr/include/c++/exception:
+
+/usr/include/c++/bits/atomic_lockfree_defines.h:

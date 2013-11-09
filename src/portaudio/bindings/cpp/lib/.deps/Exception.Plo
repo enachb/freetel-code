@@ -1,0 +1,39 @@
+Exception.lo: ../source/portaudiocpp/Exception.cxx \
+ ../include/portaudiocpp/Exception.hxx /usr/include/c++/exception \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/c++config.h \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/os_defines.h \
+ /usr/include/features.h /usr/include/stdc-predef.h \
+ /usr/include/bits/predefs.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-soft.h \
+ /usr/include/c++//arm-angstrom-linux-gnueabi/bits/cpu_defines.h \
+ /usr/include/c++/bits/atomic_lockfree_defines.h \
+ ../../../include/portaudio.h
+
+../include/portaudiocpp/Exception.hxx:
+
+/usr/include/c++/exception:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/c++config.h:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/os_defines.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/bits/predefs.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-soft.h:
+
+/usr/include/c++//arm-angstrom-linux-gnueabi/bits/cpu_defines.h:
+
+/usr/include/c++/bits/atomic_lockfree_defines.h:
+
+../../../include/portaudio.h:

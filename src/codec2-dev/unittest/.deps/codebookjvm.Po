@@ -1,0 +1,3 @@
+codebookjvm.o: ../src/codebookjvm.c ../src/defines.h
+
+../src/defines.h:

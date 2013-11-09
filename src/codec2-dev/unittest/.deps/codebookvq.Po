@@ -1,0 +1,3 @@
+codebookvq.o: ../src/codebookvq.c ../src/defines.h
+
+../src/defines.h:
